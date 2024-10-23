@@ -1,0 +1,1 @@
+# DotNetCore-K8Ingress
